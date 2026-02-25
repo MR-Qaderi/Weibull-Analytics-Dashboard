@@ -8,7 +8,7 @@ A simple, interactive, and client-side web application for **Reliability & Life 
 
 * **Data Ingestion:** Upload datasets (`.xlsx`, `.csv`) with automatic preview.
 * **Smart Estimation Algorithms:**
-* * Maximum Likelihood Estimation (MLE)
+  * Maximum Likelihood Estimation (MLE)
   * Median Rank Regression (MRR)
 * **Engineering KPIs:** Calculates Shape Parameter (β), Scale Parameter (η), Mean Time To Failure (MTTF), and B10 Life.
 * **Predictive Analytics:** Built-in calculators for Survival Probability R(t) and B-Life Expectancy.
